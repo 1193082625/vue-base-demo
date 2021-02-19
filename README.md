@@ -1,19 +1,2 @@
-# vue-base-demo
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+config: 配置对应环境（生产环境，开发环境）
+plugins：安装的依赖插件
